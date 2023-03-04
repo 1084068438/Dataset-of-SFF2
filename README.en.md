@@ -1,7 +1,7 @@
 # Image-sequences-of-SFF
 
 #### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+{**It is a dataset for reconstruction experiment based on SFF**}
 
 #### Software Architecture
 Software architecture description
